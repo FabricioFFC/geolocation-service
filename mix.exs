@@ -27,6 +27,7 @@ defmodule GeolocationService.MixProject do
       {:ecto, "~> 3.10"},
       {:ecto_network, "~> 1.3"},
       {:ecto_sql, "~> 3.10"},
+      {:ex_machina, "~> 2.7", only: :test},
       {:net_address, "~> 0.3.0"},
       {:nimble_csv, "~> 1.2"},
       {:postgrex, "~> 0.17.3"}
