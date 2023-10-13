@@ -26,3 +26,6 @@ geolocation_service-*.tar
 /tmp/
 .~*
 .data
+
+# Ignore env file
+.env
