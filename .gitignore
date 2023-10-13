@@ -31,4 +31,4 @@ geolocation_service-*.tar
 .env
 
 # Ignore build artifacts
-rel/
+# rel/
